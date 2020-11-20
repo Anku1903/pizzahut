@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/pizzahut/static/css/main.69e27cff.chunk.css",
+    "main.js": "/pizzahut/static/js/main.615b5cd0.chunk.js",
+    "main.js.map": "/pizzahut/static/js/main.615b5cd0.chunk.js.map",
+    "runtime-main.js": "/pizzahut/static/js/runtime-main.5d4c34e8.js",
+    "runtime-main.js.map": "/pizzahut/static/js/runtime-main.5d4c34e8.js.map",
+    "static/css/2.d2db83f0.chunk.css": "/pizzahut/static/css/2.d2db83f0.chunk.css",
+    "static/js/2.fa382c45.chunk.js": "/pizzahut/static/js/2.fa382c45.chunk.js",
+    "static/js/2.fa382c45.chunk.js.map": "/pizzahut/static/js/2.fa382c45.chunk.js.map",
+    "static/js/3.48f2f103.chunk.js": "/pizzahut/static/js/3.48f2f103.chunk.js",
+    "static/js/3.48f2f103.chunk.js.map": "/pizzahut/static/js/3.48f2f103.chunk.js.map",
+    "index.html": "/pizzahut/index.html",
+    "static/css/2.d2db83f0.chunk.css.map": "/pizzahut/static/css/2.d2db83f0.chunk.css.map",
+    "static/css/main.69e27cff.chunk.css.map": "/pizzahut/static/css/main.69e27cff.chunk.css.map",
+    "static/js/2.fa382c45.chunk.js.LICENSE.txt": "/pizzahut/static/js/2.fa382c45.chunk.js.LICENSE.txt",
+    "static/media/empty-cart.621445dd.png": "/pizzahut/static/media/empty-cart.621445dd.png",
+    "static/media/hero-pizza.17ccb033.png": "/pizzahut/static/media/hero-pizza.17ccb033.png",
+    "static/media/p1.1c5f437f.jpg": "/pizzahut/static/media/p1.1c5f437f.jpg",
+    "static/media/p10.e2ef5bbd.jpg": "/pizzahut/static/media/p10.e2ef5bbd.jpg",
+    "static/media/p11.c1137944.jpg": "/pizzahut/static/media/p11.c1137944.jpg",
+    "static/media/p12.a0bfd555.jpg": "/pizzahut/static/media/p12.a0bfd555.jpg",
+    "static/media/p2.1ba970dd.jpg": "/pizzahut/static/media/p2.1ba970dd.jpg",
+    "static/media/p3.8a41cba4.jpg": "/pizzahut/static/media/p3.8a41cba4.jpg",
+    "static/media/p4.8633b9db.jpg": "/pizzahut/static/media/p4.8633b9db.jpg",
+    "static/media/p5.37cc07fc.jpg": "/pizzahut/static/media/p5.37cc07fc.jpg",
+    "static/media/p7.0a07dd5b.jpg": "/pizzahut/static/media/p7.0a07dd5b.jpg",
+    "static/media/p8.8af1d8f0.jpg": "/pizzahut/static/media/p8.8af1d8f0.jpg",
+    "static/media/p9.898b94ae.jpg": "/pizzahut/static/media/p9.898b94ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d4c34e8.js",
+    "static/css/2.d2db83f0.chunk.css",
+    "static/js/2.fa382c45.chunk.js",
+    "static/css/main.69e27cff.chunk.css",
+    "static/js/main.615b5cd0.chunk.js"
+  ]
+}
